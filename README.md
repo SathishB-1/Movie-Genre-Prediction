@@ -61,6 +61,9 @@ Early classification of movie scripts into genres can help production companies 
 7. Data Analytics for Audience Targeting
 Marketers can use genre predictions to build better audience segments and tailor campaigns more effectively.
 
+## User Interface
+![image alt](https://github.com/SathishB-1/Movie-Genre-Prediction/blob/e5456c6adc2ce55f9eb86b97aa27828bfb048daf/Genre.png)
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
